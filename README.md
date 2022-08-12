@@ -33,7 +33,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+While developing the standard functionalities of the tip calculator was straightforward, I had to spend a few extra hours implementing the night mode and set default tip features. Conceptualizing the communication between the settings view controller and the main view controller was a process that required experimenting with how certain UI swtiches and text fields interacted fromm one view to another. Utilizing various print statements with User Default Values helped me understand how to store and retrieve values for the purposes of updating the settings. 
+
 
 ## License
 
